@@ -48,6 +48,7 @@
   "dependencies": {
     "font-list": "*",
     "fs-extra": "*",
+    "mkdirp": "^3.0.1",
     "pidtree": "*",
     "puppeteer-extra": "*",
     "puppeteer-extra-plugin": "*",

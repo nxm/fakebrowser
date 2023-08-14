@@ -1,5 +1,7 @@
 # 🐭 Fake browser, headless browser, all for bots 🤖
 
+![hacked](trueshit.png)
+
 * **Basic version:**
 Based on [puppeteer](https://github.com/puppeteer/puppeteer), uses JavaScript hooks to modify properties and provides a simple api to make your web bot undetectable.
 * **Advanced version:**
